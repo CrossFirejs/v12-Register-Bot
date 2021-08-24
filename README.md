@@ -1,2 +1,3 @@
-# v12-Register-Bot
-Discord v12 Kayıt Botu
+# Discord v12 Register Bot
+- Gelişmiş Kayıt Botu Çok Yakında Paylaşacağım...
+- Discord: <a href="https://discord.com/users/846664861290070057" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
